@@ -1,0 +1,153 @@
+{
+    "companyInfo": {
+        "companyName": "Jenkins - Flatley",
+        "companyMotto": "frictionless incubate models",
+        "companyEst": "2017-07-20T03:16:48.462Z"
+    },
+    "employees": [
+        {
+            "id": "3c2c8fc3-0fe6-4eb7-9bcd-c6d47b702a4b",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vikashpathak18/128.jpg",
+            "firstName": "Sebastian",
+            "lastName": "Stanton",
+            "jobTitle": "Customer Functionality Orchestrator",
+            "contactNo": "0478 286 329",
+            "address": "Zara Place South Elijah, Australian Capital Territory",
+            "age": 40,
+            "bio": "Nostrum nihil quisquam ullam eveniet tempore. Consequuntur maxime totam odio enim voluptatem necessitatibus exercitationem. Vero qui necessitatibus eius fugiat. Sint repellendus ut nesciunt. Perferendis nemo expedita laborum ea fugit facilis. Dolores asperiores et ut quisquam consequatur autem et et sint.",
+            "dateJoined": "2018-04-12T16:38:58.529Z"
+        },
+        {
+            "id": "457f4233-61a6-4f0a-9666-654d47b2097e",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/randomlies/128.jpg",
+            "firstName": "Zac",
+            "lastName": "Hane",
+            "jobTitle": "Customer Mobility Designer",
+            "contactNo": "0448 029 746",
+            "address": "Lola Drive West Skyefort, Australian Capital Territory",
+            "age": 61,
+            "bio": "Qui est rerum reiciendis facilis. Ut vel omnis veniam animi est. Aut aliquam quis laborum et cum ipsam magni consequatur incidunt. Deleniti voluptatem nisi modi magni nam et non. Aliquam veritatis ipsa maxime. Et numquam aut sit dolor maxime laborum dolorum ut.",
+            "dateJoined": "2017-12-06T16:06:32.762Z"
+        },
+        {
+            "id": "223b8f65-a4d4-49cd-848c-613773bd90e1",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xadhix/128.jpg",
+            "firstName": "Finn",
+            "lastName": "Harber",
+            "jobTitle": "Senior Solutions Consultant",
+            "contactNo": "0484 807 901",
+            "address": "Mason Mews Logantown, Queensland",
+            "age": 18,
+            "bio": "Maxime nulla laboriosam et dolorem expedita. Voluptate quas eius et. Sit laudantium voluptatibus corrupti quaerat. Vero et et qui voluptas ipsa.",
+            "dateJoined": "2021-08-31T09:02:57.147Z"
+        },
+        {
+            "id": "7abe3b3e-0481-446f-b2bb-a41ef0d4f554",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/afusinatto/128.jpg",
+            "firstName": "Addison",
+            "lastName": "Christiansen",
+            "jobTitle": "Senior Brand Planner",
+            "contactNo": "0453 891 024",
+            "address": "Poppy Trail Elizabethland, Western Australia",
+            "age": 51,
+            "bio": "Qui asperiores qui enim. Quia sequi rem suscipit voluptatem quis suscipit. Asperiores ut minima ut eos non et quae reiciendis voluptatibus. Consequuntur cum ea eos aut blanditiis eum distinctio.",
+            "dateJoined": "2020-11-08T20:41:12.320Z"
+        },
+        {
+            "id": "c4cffe3b-9118-442d-9101-db8c30a8d4cc",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tgerken/128.jpg",
+            "firstName": "Toby",
+            "lastName": "Borer",
+            "jobTitle": "Regional Data Assistant",
+            "contactNo": "0433 503 035",
+            "address": "Watson Track Mullerchester, South Australia",
+            "age": 59,
+            "bio": "Excepturi aut error quae nulla eos. Autem voluptates qui ex. Possimus et nihil tempore aliquid. Ut ullam quae esse magni.",
+            "dateJoined": "2017-09-15T09:24:58.526Z"
+        },
+        {
+            "id": "f2c9875b-8836-4174-b166-b458c96575a5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/h1brd/128.jpg",
+            "firstName": "Lucas",
+            "lastName": "Thomson",
+            "jobTitle": "District Metrics Manager",
+            "contactNo": "0457 567 668",
+            "address": "Wood Place Welchstad, Australian Capital Territory",
+            "age": 39,
+            "bio": "Voluptate natus autem sed maiores. Cumque iste eos et corporis illum et. Nihil et aut fugiat esse odio est. Sed debitis ducimus eum eos qui et.",
+            "dateJoined": "2015-05-18T10:29:39.041Z"
+        },
+        {
+            "id": "d871fbdc-39c2-4158-a45b-9afb0614826b",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/justinrob/128.jpg",
+            "firstName": "Maya",
+            "lastName": "Campbell",
+            "jobTitle": "Future Metrics Technician",
+            "contactNo": "0462 568 072",
+            "address": "Stephanie Crest Hyatttown, Victoria",
+            "age": 64,
+            "bio": "Ut reprehenderit suscipit. Rerum aliquam aut. Molestiae qui vel aperiam aspernatur assumenda laborum. Quasi et voluptatibus sed omnis enim quos quo doloremque voluptates. Voluptatem vitae odit iste sit. Ut culpa cumque reprehenderit dolores error.",
+            "dateJoined": "2020-07-14T03:11:43.923Z"
+        },
+        {
+            "id": "7e3de7cd-b841-49a6-b5c1-a21a57e8f29d",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rpeezy/128.jpg",
+            "firstName": "Lauren",
+            "lastName": "Hansen",
+            "jobTitle": "Dynamic Research Technician",
+            "contactNo": "0422 559 962",
+            "address": "Alyssa Circuit East Cooperside, Tasmania",
+            "age": 54,
+            "bio": "Numquam aut soluta facere aut dolor nesciunt non. Eveniet non officia ipsa. Aliquam debitis asperiores ratione et.",
+            "dateJoined": "2022-06-16T16:36:30.799Z"
+        },
+        {
+            "id": "b17aea41-24dc-40d7-ad2a-26436b95c32c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/markolschesky/128.jpg",
+            "firstName": "John",
+            "lastName": "Barton",
+            "jobTitle": "Dynamic Response Specialist",
+            "contactNo": "0483 258 740",
+            "address": "Anthony Manor East Aidanbury, Victoria",
+            "age": 38,
+            "bio": "Eos quae dolorem dolorem. Molestiae et unde sed. Eum mollitia assumenda. Facere eum atque voluptatibus expedita repudiandae.",
+            "dateJoined": "2019-08-23T02:42:58.196Z"
+        },
+        {
+            "id": "084f4edc-fb3c-4506-b043-3bb526960ed1",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/brenton_clarke/128.jpg",
+            "firstName": "Ivy",
+            "lastName": "Lowe",
+            "jobTitle": "Lead Response Agent",
+            "contactNo": "0436 171 054",
+            "address": "Donnelly Run Evieview, Australian Capital Territory",
+            "age": 57,
+            "bio": "Nobis aperiam quam consequatur unde vitae a voluptatem. Et quo quia sunt distinctio voluptates deleniti repellat laboriosam aut. Quia doloremque voluptatibus deserunt aut dolore explicabo voluptatem. In sint aut voluptas veniam non voluptatem necessitatibus. Et qui inventore voluptates enim facere sed laborum. Sit voluptatem molestias ullam accusantium amet minus.",
+            "dateJoined": "2022-05-05T21:06:54.346Z"
+        },
+        {
+            "id": "5ecb6a29-3b5d-4df4-a525-0f29cd9d1999",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/matthewkay_/128.jpg",
+            "firstName": "Riley",
+            "lastName": "Flatley",
+            "jobTitle": "Internal Communications Architect",
+            "contactNo": "0477 332 276",
+            "address": "Charlie Street Millerchester, Australian Capital Territory",
+            "age": 49,
+            "bio": "Quaerat sed aut quae voluptatem nihil qui aut iusto voluptatem. Ut labore voluptas quo sunt. Voluptatem possimus consequatur mollitia deleniti maiores molestiae aut.",
+            "dateJoined": "2020-07-07T18:24:32.978Z"
+        },
+        {
+            "id": "f6c52ad5-4104-4f44-a4d8-613a5fa207ea",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/artd_sign/128.jpg",
+            "firstName": "Aidan",
+            "lastName": "Weber",
+            "jobTitle": "Future Integration Analyst",
+            "contactNo": "0430 951 961",
+            "address": "Adam Avenue East Nicholas, Queensland",
+            "age": 64,
+            "bio": "Perspiciatis nihil similique laudantium voluptatem eum dolores rerum. Eum enim facilis quia ab. Non ut eius optio atque ut enim qui. Reiciendis voluptatem quae numquam consequatur quia ad totam.",
+            "dateJoined": "2021-02-01T05:46:09.344Z"
+        }
+    ]
+}
