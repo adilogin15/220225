@@ -10,8 +10,8 @@ export const COLUMNS = [
         accessor: 'avatar',
     },
     {
-        Header: "Name",
-        Footer: "Name",
+        Header: "First Name",
+        Footer: "First Name",
         accessor: 'firstName',
     },
     {
